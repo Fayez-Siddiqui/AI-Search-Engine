@@ -1,0 +1,14 @@
+langchainhub  
+langgraph  
+langchain-google-genai  
+langchain-openai 
+langchain  
+langchain-community
+streamlit
+typing
+typing-extensions
+langchain-core
+extra-streamlit-components
+firebase-admin
+PyJWT
+email-validator
