@@ -589,7 +589,10 @@ def app() -> None:
                 response=temp
                 response=response + f"\n"
                 response = response + value["generation"]
-                st.write(response) 
+                if len(response)>0:
+                    st.write(response)
+                else :
+                    st.write("Didn't catch you there 😓") 
         message = {"role": "😇", "content": response}
         st.session_state.messages.append(message)
 TITLE="🌕 AI Search Engine"
