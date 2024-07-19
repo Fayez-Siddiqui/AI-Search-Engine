@@ -2,3 +2,5 @@
 keys.py
 .vscode/
 ai-search-engine-58a63-firebase-adminsdk-xpju1-8a41d6a3a3.json
+__pycache__/keys.cpython-310.pyc
+__pycache__/utils.cpython-310.pyc
